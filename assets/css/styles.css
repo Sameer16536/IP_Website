@@ -331,8 +331,14 @@ img {
   width: 65%;
 }
 
-.skills__ux {
-  width: 85%;
+.skills__react {
+  width: 60%;
+}
+.skills__mongodb {
+  width: 70%;
+}
+.skills__nodejs {
+  width: 60%;
 }
 
 .skills__img {
